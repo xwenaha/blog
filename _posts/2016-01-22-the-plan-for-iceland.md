@@ -3,7 +3,7 @@ layout: post
 title: "冰岛行程计划表"
 ---
 
-##### 冰岛基本信息
+## 冰岛基本信息
 
 货币：ISK，1欧元 ＝ 141克朗
 
@@ -13,7 +13,7 @@ title: "冰岛行程计划表"
 
 气温：冬天温度在零下5度以上，并不冷的样子。。。
 
-##### 冰岛食物
+## 冰岛食物
 
 冰岛龙虾
 
@@ -23,20 +23,20 @@ title: "冰岛行程计划表"
 
 冰岛没小费文化。
 
-##### 旅行计划表
+## 旅行计划表
 
 备注：需要比出发时间提前30分钟到达上车点。
 
-###### [黄金圈](https://www.re.is/day-tours/the-golden-circle) 
+###### [黄金圈](https://www.re.is/day-tours/the-golden-circle)
 
 价格：10500 isk (74欧)
 
 时间：9点出发，共8小时
 
 ![](http://xwenaha.github.io/resource/golden_circle_map.png)
-![](http://xwenaha.github.io/resource/golden_circle_1.jpg	)![](http://xwenaha.github.io/resource/golden_circle_2.jpg)![](http://xwenaha.github.io/resource/golden_circle_3.jpg)![](http://xwenaha.github.io/resource/golden_circle_4.jpg)![](http://xwenaha.github.io/resource/golden_circle_5.jpg)
+![](http://xwenaha.github.io/resource/golden_circle_1.jpg)![](http://xwenaha.github.io/resource/golden_circle_2.jpg)![](http://xwenaha.github.io/resource/golden_circle_3.jpg)![](http://xwenaha.github.io/resource/golden_circle_4.jpg)![](http://xwenaha.github.io/resource/golden_circle_5.jpg)
 
-###### [Blue Lagoon温泉之旅](https://www.re.is/day-tours/blue-lagoon) 
+###### [Blue Lagoon温泉之旅](https://www.re.is/day-tours/blue-lagoon)
 
 价格：9700 isk (68欧)
 
@@ -74,7 +74,7 @@ Blue Lagoon - Reykjavik
 ![](http://xwenaha.github.io/resource/blue_agoon_map.png)
 ![](http://xwenaha.github.io/resource/blue_agoon_1.jpg)![](http://xwenaha.github.io/resource/blue_agoon_2.jpg)![](http://xwenaha.github.io/resource/blue_agoon_3.jpg)
 
-###### [北极光之旅](https://www.re.is/day-tours/northern-lights-tour) 
+###### [北极光之旅](https://www.re.is/day-tours/northern-lights-tour)
 
 价格：6400 isk (45欧)
 
