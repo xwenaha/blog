@@ -27,7 +27,7 @@ title: "冰岛行程计划表"
 
 备注：需要比出发时间提前30分钟到达上车点。
 
-###### [黄金圈](https://www.re.is/day-tours/the-golden-circle)
+###### <a href="https://www.re.is/day-tours/the-golden-circle" target="_blank">黄金圈</a>
 
 价格：10500 isk (74欧)
 
@@ -36,7 +36,7 @@ title: "冰岛行程计划表"
 ![](http://xwenaha.github.io/resource/golden_circle_map.png)
 ![](http://xwenaha.github.io/resource/golden_circle_1.jpg)![](http://xwenaha.github.io/resource/golden_circle_2.jpg)![](http://xwenaha.github.io/resource/golden_circle_3.jpg)![](http://xwenaha.github.io/resource/golden_circle_4.jpg)![](http://xwenaha.github.io/resource/golden_circle_5.jpg)
 
-###### [Blue Lagoon温泉之旅](https://www.re.is/day-tours/blue-lagoon)
+###### <a href="https://www.re.is/day-tours/blue-lagoon" target="_blank">Blue Lagoon温泉之旅</a>
 
 价格：9700 isk (68欧)
 
@@ -74,7 +74,7 @@ Blue Lagoon - Reykjavik
 ![](http://xwenaha.github.io/resource/blue_agoon_map.png)
 ![](http://xwenaha.github.io/resource/blue_agoon_1.jpg)![](http://xwenaha.github.io/resource/blue_agoon_2.jpg)![](http://xwenaha.github.io/resource/blue_agoon_3.jpg)
 
-###### [北极光之旅](https://www.re.is/day-tours/northern-lights-tour)
+###### <a href="https://www.re.is/day-tours/northern-lights-tour" target="_blank">北极光之旅</a>
 
 价格：6400 isk (45欧)
 
@@ -87,7 +87,7 @@ Blue Lagoon - Reykjavik
 ![](http://xwenaha.github.io/resource/northern_lights_map.png)
 ![](http://xwenaha.github.io/resource/northern_lights_1.jpg)![](http://xwenaha.github.io/resource/northern_lights_2.jpg)![](http://xwenaha.github.io/resource/northern_lights_3.jpg)![](http://xwenaha.github.io/resource/northern_lights_4.jpg)
 
-###### [黄金圈＋Fontana Wellness组合](https://www.re.is/day-tours/the-golden-circle-fontana-wellness)
+###### <a href="https://www.re.is/day-tours/the-golden-circle-fontana-wellness" target="_blank">黄金圈＋Fontana Wellness组合</a>
 
 价格：13500 isk (95欧)
 
@@ -95,6 +95,6 @@ Blue Lagoon - Reykjavik
 
 注意事项：需准备泳衣毛巾
 
-[更多旅行项目](https://www.re.is/)
+<a href="https://www.re.is/" target="_blank">更多旅行项目</a>
 
-[另外一家冰岛单日游公司](http://www.icelandexcursions.is/Tours/Day_Tours/Iceland.is)
+<a href="http://www.icelandexcursions.is/Tours/Day_Tours/Iceland.is" target="_blank">另外一家冰岛单日游公司</a>
